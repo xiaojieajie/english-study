@@ -1,0 +1,20 @@
+{
+  "name": "english-study",
+  "version": "1.0.0",
+  "description": "[2020-06-29](2021-06/2021-06-29.md)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaojieajie/english-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaojieajie/english-study/issues"
+  },
+  "homepage": "https://github.com/xiaojieajie/english-study#readme"
+}
