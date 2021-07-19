@@ -4,7 +4,7 @@
   "description": "[2020-06-29](2021-06/2021-06-29.md)",
   "main": "index.js",
   "scripts": {
-    "build": "node index && git add . && git commit -m '提交' && git push"
+    "build": "node index && git add . && git commit -m '学习' && git push"
   },
   "repository": {
     "type": "git",
