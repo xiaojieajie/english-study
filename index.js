@@ -27,16 +27,16 @@ async function writeReadme() {
   str += result.join('\n\n')
 
   const targetPath = path.resolve(__dirname, 'README.md')
-  
+
   try {
     fs.writeFile(targetPath, str, {
       encoding: 'utf-8'
     })
     console.log('书写文件成功')
-  } catch(err) {
+  } catch (err) {
     console.log('书写文件失败')
   }
-  
+
 }
 
 writeReadme()
